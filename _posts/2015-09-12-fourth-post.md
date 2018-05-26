@@ -1,5 +1,5 @@
 ---
-title: Fourth Post
+title: I did!!
 author: Chris
 layout: post
 ---
@@ -24,5 +24,7 @@ An nobis instructior eos, eam libris aperiam corrumpit ex. Case omnesque eu per.
 Nam at velit percipit detraxit, quas modus mea ut. Ius an natum doctus vivendum. Quo at debet vidisse viderer, mollis eripuit ex nec. Sed ut choro saepe, sale augue sea et. His nemore dolorum mnesarchum at, ius an adipisci aliquando, laoreet placerat ea ius.
 
 ```js
-function
+function(){
+ ekfkfk
+}
 ```
